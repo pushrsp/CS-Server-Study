@@ -1,0 +1,15 @@
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/bin/Debug/netcoreapp3.1/Dummy.deps.json
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/bin/Debug/netcoreapp3.1/Dummy.runtimeconfig.json
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/bin/Debug/netcoreapp3.1/Dummy.runtimeconfig.dev.json
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/bin/Debug/netcoreapp3.1/Dummy.dll
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/bin/Debug/netcoreapp3.1/Dummy.pdb
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/bin/Debug/netcoreapp3.1/Core.dll
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/obj/Debug/netcoreapp3.1/Dummy.csprojAssemblyReference.cache
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/obj/Debug/netcoreapp3.1/Dummy.AssemblyInfoInputs.cache
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/obj/Debug/netcoreapp3.1/Dummy.AssemblyInfo.cs
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/obj/Debug/netcoreapp3.1/Dummy.csproj.CoreCompileInputs.cache
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/obj/Debug/netcoreapp3.1/Dummy.csproj.CopyComplete
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/obj/Debug/netcoreapp3.1/Dummy.dll
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/obj/Debug/netcoreapp3.1/Dummy.pdb
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Dummy/obj/Debug/netcoreapp3.1/Dummy.genruntimeconfig.cache

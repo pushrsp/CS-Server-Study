@@ -1,0 +1,9 @@
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Core/bin/Debug/netcoreapp3.1/Core.deps.json
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Core/bin/Debug/netcoreapp3.1/Core.dll
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Core/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Core/obj/Debug/netcoreapp3.1/Core.csprojAssemblyReference.cache
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Core/obj/Debug/netcoreapp3.1/Core.dll
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Core/obj/Debug/netcoreapp3.1/Core.pdb

@@ -1,0 +1,17 @@
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/bin/Debug/netcoreapp3.1/PacketGenerator.deps.json
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/bin/Debug/netcoreapp3.1/PacketGenerator.runtimeconfig.json
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/bin/Debug/netcoreapp3.1/PacketGenerator.runtimeconfig.dev.json
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/bin/Debug/netcoreapp3.1/PacketGenerator.dll
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/bin/Debug/netcoreapp3.1/PacketGenerator.pdb
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/obj/Debug/netcoreapp3.1/PacketGenerator.csprojAssemblyReference.cache
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/obj/Debug/netcoreapp3.1/PacketGenerator.AssemblyInfoInputs.cache
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/obj/Debug/netcoreapp3.1/PacketGenerator.AssemblyInfo.cs
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/obj/Debug/netcoreapp3.1/PacketGenerator.csproj.CoreCompileInputs.cache
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/obj/Debug/netcoreapp3.1/PacketGenerator.dll
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/obj/Debug/netcoreapp3.1/PacketGenerator.pdb
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/obj/Debug/netcoreapp3.1/PacketGenerator.genruntimeconfig.cache
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/bin/netcoreapp3.1/PacketGenerator.deps.json
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/bin/netcoreapp3.1/PacketGenerator.runtimeconfig.json
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/bin/netcoreapp3.1/PacketGenerator.runtimeconfig.dev.json
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/bin/netcoreapp3.1/PacketGenerator.dll
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/PacketGenerator/bin/netcoreapp3.1/PacketGenerator.pdb

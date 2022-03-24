@@ -1,0 +1,15 @@
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/bin/Debug/netcoreapp3.1/Server.deps.json
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/bin/Debug/netcoreapp3.1/Server.runtimeconfig.json
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/bin/Debug/netcoreapp3.1/Server.runtimeconfig.dev.json
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/bin/Debug/netcoreapp3.1/Server.dll
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/bin/Debug/netcoreapp3.1/Server.pdb
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/bin/Debug/netcoreapp3.1/Core.dll
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/obj/Debug/netcoreapp3.1/Server.csprojAssemblyReference.cache
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/obj/Debug/netcoreapp3.1/Server.AssemblyInfoInputs.cache
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/obj/Debug/netcoreapp3.1/Server.AssemblyInfo.cs
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/obj/Debug/netcoreapp3.1/Server.csproj.CoreCompileInputs.cache
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/obj/Debug/netcoreapp3.1/Server.csproj.CopyComplete
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/obj/Debug/netcoreapp3.1/Server.dll
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/obj/Debug/netcoreapp3.1/Server.pdb
+/Users/pushrsp/Desktop/lecture/game/Review/Server6/Server/obj/Debug/netcoreapp3.1/Server.genruntimeconfig.cache
